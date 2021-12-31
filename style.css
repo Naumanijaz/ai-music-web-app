@@ -1,0 +1,42 @@
+.note{
+color: black;
+font-size: 15px;
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+body{
+    background-size: cover;
+}
+.div_speed{
+    float: left;
+}
+.speedimage{
+    border-radius: 100px;
+    width: 200px;
+}
+#speeder1{
+    margin: 20px;
+    font-size: 25px;
+}
+.div_volume{
+    float: right;
+}
+.volumeimage{
+    border-radius: 100px;
+    width: 200px;
+}
+#volume{
+    margin: 20px;
+    font-size: 25px;
+}
+.buttoj{
+    font-size: 25px;
+    width: 150px;
+}
+canvas{
+    border: 5px solid blue;
+    border-radius: 20px;
+}
